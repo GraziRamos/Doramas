@@ -1,0 +1,112 @@
+body{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color:#215070;
+    color:#ffffff;
+    margin: 0px 0px 30px 0px;
+    font-size: 20px;
+}
+
+h2{
+    color:#81e0e0;
+    font-size: 30px;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.linha23{
+    font-style: italic;
+    line-height: 1.5;
+    text-align: justify;
+    list-style-type: disc;
+}
+
+.linha24{
+    font-style: italic;
+    line-height: 1.5;
+    list-style-type: disc;
+    text-align:justify;
+}
+
+.linha25{
+    font-style: italic;
+    line-height: 1.5;
+    text-align: justify;
+    list-style-type: disc;
+}
+
+.linha33{
+    font-style: italic;
+    line-height: 1.5;
+    text-align: justify;
+}
+
+.linha34{
+    font-style: italic;
+    line-height: 1.5;
+    text-align:justify;
+}
+
+.linha35{
+    font-style: italic;
+    line-height: 1.5;
+    text-align: justify;
+}
+
+.linha38{
+    font-style: italic;
+    line-height: 1.5;
+    text-align: justify;
+}
+
+.linha39{
+    font-style: italic;
+    line-height: 1.5;
+    text-align: justify;
+}
+
+.linha40{
+    font-style: italic;
+    letter-spacing:normal;    
+    line-height: 1.5;
+    text-align: justify;
+}
+
+p{
+    line-height: 1.5;
+}
+
+img{
+    width: 61%;
+    border: #7197b1 1px solid;
+    margin: 0 auto;
+}
+
+section{
+    max-width: 75%;
+    margin:0 auto
+}
+
+section section {
+    width: 100;
+}
+
+ul{
+    text-align:center;
+    list-style-type:none;
+    line-height: 2;
+    padding-left: 0;
+}
+
+a{
+    text-decoration:dotted;
+    color:#81e0e0;
+    font-style:normal;
+}
+
+button{
+  background: #81e0e0;
+  border: 1px solid turquoise;
+  padding: 2px 20px;
+  border-radius: 8px;
+}
